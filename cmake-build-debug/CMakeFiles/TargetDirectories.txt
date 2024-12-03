@@ -1,0 +1,3 @@
+/home/lebona/Documents/Assessments/EndAssesment/cmake-build-debug/CMakeFiles/EndAssesment.dir
+/home/lebona/Documents/Assessments/EndAssesment/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lebona/Documents/Assessments/EndAssesment/cmake-build-debug/CMakeFiles/rebuild_cache.dir

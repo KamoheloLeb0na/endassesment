@@ -1,0 +1,14 @@
+############################################################
+Child's Vaccination Report:
+
+############################################################
+Child Fullname: K******* ****** ***ona
+Guardian/Parent(s) Name(s): M******* and T*****
+Date of Birth: **/**/20**
+Village: Seapoint | Chief: Monaphati | District: Maseru
+
+Vaccinations Administered:
+-> Vaccine: ******* | Weight: 80 | Height: 2 | Date: 30082024 | By: Ntsoaki | Clinic: Scott
+
+Date for Next Vaccine: 12092024
+############################################################
